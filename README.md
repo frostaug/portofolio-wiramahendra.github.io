@@ -1,1 +1,1 @@
-echo "# wirmahendra.github.io"
+# wirmahendra.github.io"
